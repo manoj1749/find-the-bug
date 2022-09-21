@@ -1,4 +1,4 @@
-# dot-net-debugging-task
+# find-the-bug
 ### Problem Statement
 - Ravi and Teja are making a client server based application using .NET framework on c# to send some data from the client to server, which will be stored in a json file. They referred many documents and wrote some code fot both client and server but their still facing some issues. Help them solve the bugs and complete their project.
 
