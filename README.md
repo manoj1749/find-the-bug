@@ -1,6 +1,6 @@
 # find-the-bug
 ### Problem Statement
-- Ravi and Teja are making a client server based application using .NET framework on c# to send some data from the client to server, which will be stored in a json file. They referred many documents and wrote some code fot both client and server but their still facing some issues. Help them solve the bugs and complete their project.
+- We all know about servers and know how it works, some of us might be curious about them. While making a server based applications are not a big task if we have found a nice and good article. You might have thought of making one kind of application one day. What if we say that you can make a client-server based CLI application using C#. Yes, We have provided you a client server based application using Microsoft's framework, .NET, which is based on C#. The application provided to you actually sends some data from the client to server, which will be stored in a json file. We had provied you the source-code for these which had some errors. Try to solve the bugs and complete the client-server application.
 
 ### Resources
 - https://dotnet.microsoft.com/en-us/learn/dotnet/hello-world-tutorial/intro
@@ -16,6 +16,7 @@
 - Note: you should run the server first and then client, otherwise they won't be able to run.
 
 ### Bonus
+- If you have a windows laptop you can also try adding gui to the application using visual-code, which is not necessary though(only if you are intrested)
 - You can add any extra features to the application like asking about any other extra date, etc. It can be anything else.
 
 ### Working Sample
