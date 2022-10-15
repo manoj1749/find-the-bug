@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Text;
 // check whether all required namespaces are imported
 
@@ -14,7 +14,7 @@ public class SynchronousSocketClient
         try
         {
             // Establish the remote endpoint for the socket.  
-            // check if the port
+            // check if the port is defined or not
             IPHostEntry ipHostInfo = Dns.GetHostEntry(Dns.GetHostName());
             IPAddress ipAddress = ipHostInfo.AddressList[0];
             IPEndPoint remoteEP = new IPEndPoint(ipAddress, 8080);
