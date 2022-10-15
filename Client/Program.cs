@@ -30,7 +30,7 @@ public class SynchronousSocketClient
                 Console.WriteLine("Socket connected to {0}",
                     sender.RemoteEndPoint.ToString());
 
-                // check if the varibale is defined or not also even correctly defined
+                // check if the variable is defined correctly or not
                 Console.WriteLine("Enter the Person Name: ");
                 name = Console.ReadLine();
                 Console.WriteLine("Enter the Person Intrest: ");
