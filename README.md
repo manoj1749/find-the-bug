@@ -17,9 +17,9 @@ These are optional tasks you can take up, only if you are interested and you hav
 
 ### :books: Resources
 - [Intro](https://dotnet.microsoft.com/en-us/learn/dotnet/hello-world-tutorial/intro)
-- [Sychronous server socket example](https://docs.microsoft.com/en-us/dotnet/framework/network-programming/synchronous-server-socket-example)
-- https://docs.microsoft.com/en-us/dotnet/framework/network-programming/synchronous-client-socket-example
-- https://www.c-sharpcorner.com/UploadFile/201fc1/creating-a-serversharp47client-application-using-only-tcp-prot/
+- [Synchronous Server Socket Example](https://docs.microsoft.com/en-us/dotnet/framework/network-programming/synchronous-server-socket-example)
+- [Synchronous Client Socket Example](https://docs.microsoft.com/en-us/dotnet/framework/network-programming/synchronous-client-socket-example)
+- [Reference For Client Server Application](https://www.c-sharpcorner.com/UploadFile/201fc1/creating-a-serversharp47client-application-using-only-tcp-prot/)
 
 ### Working Sample
 This video shows how the final application should be like
